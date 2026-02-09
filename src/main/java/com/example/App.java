@@ -1,5 +1,7 @@
-<project xmlns="maven.apache.org/POM/4.0.0>
-   <modelVersion>4.0.0</modelVersion>
-       <groupId>com.example</groupId>
-       <artifactId>demo</artifactId>
-</project>
+package com.example
+
+public class App{
+   public static vod main(String args[]){
+      System.out.println("Helloooooo");
+   }
+}
